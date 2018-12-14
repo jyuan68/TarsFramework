@@ -18,7 +18,6 @@ chmod +x tarsconfig/util/*.sh
 chmod +x tarsnode/util/*.sh
 chmod +x tarspatch/util/*.sh
 chmod +x tarsregistry/util/*.sh
-chmod +x tarsregistry/util/*.sh
 
 tarsregistry/util/start.sh ;
 tarsAdminRegistry/util/start.sh;
